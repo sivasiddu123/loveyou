@@ -1,0 +1,140 @@
+
+<html>
+    <head>
+        <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+        <style>
+    
+            
+            .l
+            {
+                display:grid;
+                list-style: none;
+                columns: 2;
+                margin-left: 20px;
+            }
+            .kk
+            {
+                border: 5px solid white;
+                padding: 10px;
+                overflow: scroll auto;
+                height: 100px;
+                width: 200px;
+                padding-left: 50px;
+                margin-top: 0px;
+            }
+            .jj:hover
+            {
+
+                transition: 3s;
+                background-color: blueviolet;
+                cursor: -moz-grabbing;
+
+            }
+
+        </style>
+    </head>
+    <body>
+        <h1>ramsiva</h1>
+        <ol class="ii" type="1">
+            <li>jj</li>
+            <li>kk</li>
+            <li>ll</li>
+            <li>mm</li>
+        </ol>
+        <h2>gfdfghjk</h2>
+        <ol type="A" reversed start="G">
+            <li>ghjk</li>
+            <li>hhhh</li>
+            <li>sdda</li>
+        </ol>
+        <ol class="l" type="I">
+            <li>hjkl</li>
+            <li>lll</li>
+            <li>gggg</li>
+            <li>yyyy</li>
+        </ol>
+        <h2>asdfghjkl</h2>
+        <ol class="kk" type="A">
+            <li>sdfghj</li>
+            <li>oiuytre</li>
+            <li>zxcvb</li>
+            <li>wert</li>
+            <li>sdfghj</li>
+            <li>oiuytre</li>
+            <li>zxcvb</li>
+            <li>wert</li>
+            <li>sdfghj</li>
+            <li>oiuytre</li>
+            <li>zxcvb</li>
+            <li>wert</li>
+            <li>sdfghj</li>
+            <li>oiuytre</li>
+            <li>zxcvb</li>
+            <li>wert</li>
+
+        </ol>
+    </body>
+    <header>
+        <h1>asdfghjkkjhgfghjkhgfghj</h1>
+        <ul type="disc">
+            <li>sdfghjk</li>
+            <li>lkjhgfd</li>
+            <li>wertyuio</li>
+            <li>edfcrfvtghn</li>
+        </ul>
+        <h2>nav bar</h2>
+        <ul>
+            <nav class="jj">
+                <li><span class="bi bi-house-fill"></span><span>hello</span></li>
+                <li><span class="bi bi-house-fill"></span><span>ram</span></li>
+                <li><span class="bi bi-house-fill"></span><span>ravi</span></li>
+                <li><span class="bi bi-house-fill"></span><span>jinn</span></li>
+                <li><span class="bi bi-house-fill"></span><span>llklk</span></li>
+            </nav>
+        </ul>
+    </header>
+</html> -->
+<!-- <html>
+    <head>
+<link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+<style>
+    .hh
+    {
+                border: 5px solid white;
+                padding: 10px;
+                overflow: scroll auto;
+                height: 100px;
+                width: 200px;
+                padding-left: 50px;
+                margin-top: 0px;  
+    }
+</style>
+    </head>
+    <body>
+        <details>
+            <summary class="bi bi-menu-up"></summary>
+            <ol class="hh">
+            <dl>
+                <dt>AE1</dt>
+               <div><button> <dd>live</dd></button></div>
+                <div><button><dd>daily</dd></button></div>
+            </dl>
+            <dl>
+                <dt>AE1</dt>
+                <dd>live</dd>
+                <dd>daily</dd>
+            </dl>
+            <dl>
+                <dt>AE1</dt>
+                <dd>live</dd>
+                <dd>daily</dd>
+            </dl>
+            <dl>
+                <dt>AE1</dt>
+                <dd>live</dd>
+                <dd>daily</dd>
+            </dl>
+        </ol>
+        </details>
+    </body>
+</html>
